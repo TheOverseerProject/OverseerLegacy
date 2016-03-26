@@ -1,0 +1,35 @@
+.adleft {
+  top: 104px;
+}
+
+.intermix {
+  display: inline-block;
+  width: 100%;
+  margin-top: 10px;
+  background-color: rgba(0,0,0,.33);
+}
+
+.pined {
+  text-decoration: underline;
+}
+
+.intercross {
+  display: none;
+}
+
+#banner {
+  padding-bottom: 0px;
+}
+
+#bannerd {
+  display: none;
+}
+
+img#banning {
+  display: inline;
+  float: center;
+  width: 100%;
+  margin: 0px;
+  text-align: center;
+  text-align: -webkit-center;
+}

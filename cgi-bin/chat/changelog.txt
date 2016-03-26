@@ -1,0 +1,3 @@
+Changelog:
+/chat/core.css
+/chat/index.php

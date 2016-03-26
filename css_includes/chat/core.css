@@ -1,0 +1,37 @@
+#page-wrap {
+  bottom: 0px;
+  right: 1%;
+  position: fixed;
+  width: 30%;
+}
+
+#chat-wrap {
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: white;
+}
+
+#chat-area {
+  height: 300px;
+  overflow: auto;
+  border: 1px solid #666;
+  padding: 1%;
+  font-family: "courier new";
+}
+
+#send-message-area p {
+  width: 100%;
+}
+
+#sendie {
+  width: 100%;
+}
+
+#chatbutton , #sessionchatbutton {
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 1%;
+  padding-bottom: 0px;
+  background-color: white;
+}

@@ -1,0 +1,36 @@
+OVERSEER v1 OPEN SOURCE LICENSE VERSION 1
+Copyright (c) 2016 The Overseer Project Ltd
+
+This license should be regarded as specific to The Overseer Project Version 1 Project. 
+
+This license gives permission to modify, adapt, and learn from The Overseer Project Version 1 (hereby referred to as TOPv1) for the express purpose
+of modifying and improving upon the code, creating customised versions, or educational purposes. 
+
+To “modify” a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy. 
+The resulting work is called a “modified version” of the earlier work or a work “based on” the earlier work.
+
+You may not use, redistribute, or modify the software in any way for commercial gain or in any way for profit without the express permission of The Overseer
+Project Ltd, including but not limited to:
+- using or adapting code for use in another project
+- removing or replacing the advertisement code
+- using the Overseer name for your project 
+You may also not violate the copyright of Homestuck, belonging to What Pumpkin Ltd, or display yourself as a member of staff or affaliate of The Overseer 
+Project Ltd.
+
+You agree that all modifications to the software will be made available open source, under this license, and that this license expressly permits The Overseer
+Project Ltd to incorporate changes, modifications, upgrades, and additions you make into the official build of the project, hosted at http://legacy.overseer2.com
+and that these changes may further be used during development of Overseer 2.
+
+You agree that all changes submitted to the project shall be made with the best of intentions, and that no code deliberately or intentionally introduces security
+flaws, backdoors, or malware into the software.
+
+---------------
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+---------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
+IN THE SOFTWARE.

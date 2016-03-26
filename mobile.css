@@ -1,0 +1,12 @@
+body {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.ban {
+  display: none;
+}
+
+img#bannerd {
+  margin: 0px;
+}

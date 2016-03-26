@@ -1,0 +1,43 @@
+<?php
+
+$SQLhostName = '';
+$SQLuserName = '';
+$SQLpassword = '';
+$SQLdatabase = '';
+$SQLconnect = mysql_connect($SQLhostName, $SQLuserName, $SQLpassword);
+
+
+
+if (!$SQLconnect) {
+   die('Could not connect: ' . mysql_error());
+}
+else{
+}
+// make dbname the current db
+//
+$db_selected = mysql_select_db($SQLdatabase,$SQLconnect);
+if (!$db_selected) {
+   die ('could not connect to MySQL database : ' . mysql_error());
+}
+$con = $SQLconnect;
+// Server:      Database: 
+  
+  ?>
+  
+  
+  <div style = " 
+  <?php 
+  if ($_SERVER['SERVER_NAME'] != 'overseerdev.ctri.co.uk') 
+	{ echo "border: 2px solid red; background-color:#ffcccc; text-color:red;"; } 
+  else 
+	{ echo "border: 2px solid green; background-color:#ccffcc; text-color:green;"; }
+  ?>
+  
+  width:600px; margin-left:auto;margin-right:auto;
+  font-family:Courier New; font-weight:bold; padding:10px; text-align:center;">
+	We are connected to the <b>dev</b> database! <Br/>
+	<?php
+	if ($_SERVER['SERVER_NAME'] != 'overseerdev.ctri.co.uk') 
+		echo "	If this is on the live site, let a developer know AT ONCE!";
+	?>
+  </div>

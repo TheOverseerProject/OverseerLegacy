@@ -1,0 +1,26 @@
+<?php
+
+//I wonder...
+$SQLhostName = '';
+$SQLuserName = '';
+$SQLpassword = '';
+$SQLdatabase = '';
+
+
+$SQLconnect = mysql_connect($SQLhostName, $SQLuserName, $SQLpassword);
+
+
+
+if (!$SQLconnect) {
+   die('Could not connect: ' . mysql_error());
+}
+else{
+}
+// make dbname the current db
+//
+$db_selected = mysql_select_db($SQLdatabase,$SQLconnect);
+if (!$db_selected) {
+   die ('could not connect to MySQL database : ' . mysql_error());
+}
+$con = $SQLconnect;
+// Server:      Database: 

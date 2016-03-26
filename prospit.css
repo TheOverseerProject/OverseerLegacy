@@ -1,0 +1,31 @@
+body {
+  background-image:url('Images/Backgrounds/prospitbackground.jpg');
+  background-size:100%,100%;
+  background-attachment: fixed;
+}
+
+.adleft {
+  background-color: #FEE407;
+}
+
+#banner A:link {color: #FFFFFF;}
+#banner A:visited {color: #FFFFFF;}
+
+#spanner A:link {color: #000000;}
+#spanner A:visited {color: #000000;}
+
+#spanner {
+  background-color: #FEE407;
+}
+
+#canner {
+  background-color: #FBB915;
+}
+
+#banner {
+  background-color: #DFAC00;
+}
+
+.intermix, .intercross {
+  background-color: #E09000;
+}

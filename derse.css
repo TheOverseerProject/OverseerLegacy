@@ -1,0 +1,33 @@
+body {
+  background-image:url('Images/Backgrounds/dersebackground.gif');
+  background-size:100%,100%;
+  background-attachment: fixed;
+}
+
+.adleft {
+  background-color: #46006F;
+}
+
+#banner A:link {color: #FFFFFF;}
+#banner A:visited {color: #FFFFFF;}
+
+#spanner A:link {color: #FFFFFF;}
+#spanner A:visited {color: #FFFFFF;}
+
+#spanner {
+  background-color: #46006F;
+  color: #AAAAAA;
+}
+
+#canner {
+  background-color: #222222;
+  color: #AAAAAA;
+}
+
+#banner {
+  background-color: #300050;
+}
+
+.intermix, .intercross {
+  background-color: #200040;
+}
